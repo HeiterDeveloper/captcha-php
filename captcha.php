@@ -3,8 +3,8 @@
 *@author Heiter Developer <dev@heiterdeveloper.com>
 *@link https://github.com/HeiterDeveloper/captcha-php
 *@copyright 2018 Heiter Developer
-*@license GPL
-*@license https://www.gnu.org/licenses/gpl-3.0.en.html GNU General Public License v3.0
+*@license Aapache License 2.0
+*@license https://www.apache.org/licenses/LICENSE-2.0 Apache License 2.0
 */
 
 session_start();
